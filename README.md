@@ -91,4 +91,3 @@ node notas-atletas.js
 - Adicionar validações
 - Criar testes automatizados
 - Modularizar o código
-"""
